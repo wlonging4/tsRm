@@ -1,0 +1,18 @@
+{
+  "name": "initts1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wlg",
+  "license": "ISC",
+  "dependencies": {
+    "mobx-state-tree": "^5.1.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-redux": "^8.0.2",
+    "typescript": "^4.7.3"
+  }
+}
